@@ -2,4 +2,6 @@
   background-color: red;
   color: white;
 }
-<div> id="going_to_the_right"</div>
+#going_to_the_right{
+margin-left: 50px;
+}
